@@ -1,0 +1,13 @@
+table {
+width:300px;
+}
+
+tr,th,td{
+border-collapse: collapse;
+border: 1px solid red;
+text-align: center;
+}
+
+th,td{
+padding: 5px;
+}
